@@ -29,3 +29,15 @@
 - Decisões: Timoteo será responsável pelo github, css e backend . Pedro paulo dias de oliveira será responsável pelo backend e design das páginas . Greghory será responsável pelo design das páginas. Arthur cuidar do github e dos ATAS 
 - ações realizados: Timoteo, pedro, arthur e greghory fizeram o design de algumas páginas no figma
 
+---
+
+## ATA-04
+
+- Data: 02/07/2026
+- Assunto: criação de mais páginas no figma e a logo do site 
+- Presentes: André, Greghory, Pedro, Arthur e Timóteo
+- Ausente com justificativa: Gustavo(dedo machucado)
+- Decisões: Pedro e Timóteo farão a logo, e Greghory, André e Arthur farão mais páginas no figma 
+- ações realizados:Pedro fez a logo, Greghory fez o design da página de registre-se, André fez o design da página de formulário de hidratação, Timóteo comandou a equipe e fez ideias e Arthur fez design da página de importância de atividades fisicas 
+
+
