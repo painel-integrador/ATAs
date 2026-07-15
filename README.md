@@ -38,6 +38,17 @@
 - Presentes: André, Greghory, Pedro, Arthur e Timóteo
 - Ausente com justificativa: Gustavo(dedo machucado)
 - Decisões: Pedro e Timóteo farão a logo, e Greghory, André e Arthur farão mais páginas no figma 
-- ações realizados:Pedro fez a logo, Greghory fez o design da página de registre-se, André fez o design da página de formulário de hidratação, Timóteo comandou a equipe e fez ideias e Arthur fez design da página de importância de atividades fisicas 
+- ações realizados:Pedro fez a logo, Greghory fez o design da página de registre-se, André fez o design da página de formulário de hidratação, Timóteo comandou a equipe e fez ideias e Arthur fez design da página de importância de atividades fisicas
+
+---
+## ATA-05
+
+- Data: 09/07/2026
+- Assunto: figma e desenvolvimento do backend
+- Presentes: André, Greghory,Gustavo, Arthur e Timóteo
+- Ausentes: Pedro
+- Decisões: Greghory, Arthur e André irão continuar os designs das páginas no figma. Timotéo e Gustavo irão começar o backend do site e o servidor
+- ações realizados: Greghory fez o design da home e removeu itens desnecessários dos designs, Arthur fez o design de importância de uma vida saúdavel, André, Timotéo e Gustavo começaram a programar
+
 
 
