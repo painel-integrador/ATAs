@@ -25,9 +25,9 @@
 - Data: 25/06/2026
 - Assunto: figma e criação de páginas
 - Presentes: Arthur Rober, Pedro Paulo Dias de Oliveira ,Timóteo Graebin e  Greghory Miranda
-- Ausentes: Gustavo Neto Mota Rosa(faltou porque dormiu muito -0.5) e André Luiz Matthies
+- Ausentes: Gustavo Neto Mota Rosa(faltou porque dormiu muito -0.5) e André Luiz Matthies(estava no jifc)
 - Decisões: Timoteo será responsável pelo github, css e backend . Pedro paulo dias de oliveira será responsável pelo backend e design das páginas . Greghory será responsável pelo design das páginas. Arthur cuidar do github e dos ATAS 
-- ações realizados: Timoteo, pedro, arthur e greghory fizeram o design de algumas páginas no figma
+- Ações realizados: Timoteo, pedro, arthur e greghory fizeram o design de algumas páginas no figma
 
 ---
 
@@ -38,17 +38,17 @@
 - Presentes: André, Greghory, Pedro, Arthur e Timóteo
 - Ausente com justificativa: Gustavo(dedo machucado)
 - Decisões: Pedro e Timóteo farão a logo, e Greghory, André e Arthur farão mais páginas no figma 
-- ações realizados:Pedro fez a logo, Greghory fez o design da página de registre-se, André fez o design da página de formulário de hidratação, Timóteo comandou a equipe e fez ideias e Arthur fez design da página de importância de atividades fisicas
+- Ações realizados:Pedro fez a logo, Greghory fez o design da página de registre-se, André fez o design da página de formulário de hidratação, Timóteo comandou a equipe e fez ideias e Arthur fez design da página de importância de atividades fisicas
 
 ---
 ## ATA-05
 
 - Data: 09/07/2026
-- Assunto: figma e desenvolvimento do backend
+- Assunto: figma e desenvolvimento do frontend
 - Presentes: André, Greghory,Gustavo, Arthur e Timóteo
 - Ausentes: Pedro
-- Decisões: Greghory, Arthur e André irão continuar os designs das páginas no figma. Timotéo e Gustavo irão começar o backend do site e o servidor
-- ações realizados: Greghory fez o design da home e removeu itens desnecessários dos designs, Arthur fez o design de importância de uma vida saúdavel, André, Timotéo e Gustavo começaram a programar
+- Decisões: Greghory, Arthur e André irão continuar os designs das páginas no figma. Timotéo e Gustavo irão começar o frontend do site e as funcionalidades
+- Ações realizados: Greghory fez o design da home e removeu itens desnecessários dos designs, Arthur fez o design de importância de uma vida saúdavel, André, Timotéo e Gustavo começaram a programar
 
 
 
