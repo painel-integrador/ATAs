@@ -70,5 +70,15 @@ ações realizados:  Arthur, Gustavo, Greghory e Pedro fizeram suas páginas no 
 - Decisões: Arthur fica com os posts do instagram, Greghory fica com o HTML, André, Gustavo, Pedro e Timotéo ficam com o JS
 - ações realizados:  Arthur fez post sobre treino de perna pro instagram, Greghory o HTML do login e formulario, Gustavo, Pedro, Timotéo e  André o js do site
 
+---
+##  ATA-08
+
+- Data: 20/08/2026
+- Assunto: instagram, desenvolvimento do HTML e JS
+- Presentes: André, Greghory,Gustavo, Arthur, Timóteo e Pedro
+- Ausentes: nenhum
+- Decisões: Gustavo, Pedro e Arthur fazem posts para o instagram, André faz mais páginas para o figma, Greghory e Timotéo fazem o HTML
+- ações realizados: Gustavo, Arthur e Pedro fizeram alguns posts para instagram no canva mas ainda não postaram, André fez algumas páginas para o figma, e Greghory e Timóteo fizeram o HTML de várias páginas
+
 
 
