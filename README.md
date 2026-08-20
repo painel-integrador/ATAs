@@ -60,4 +60,15 @@
 - Decisões: Arthur, Gustavo, Greghory e Pedro continuam os designs no figma , Timotéo e André estão continuando backend
 ações realizados:  Arthur, Gustavo, Greghory e Pedro fizeram suas páginas no figma, Timotéo e André fizeram o backend.
 
+---
+## ATA-07
+
+- Data: 13/08/2026
+- Assunto: instagram, desenvolvimento do HTML e JS
+- Presentes: André, Greghory,Gustavo, Arthur, Timóteo e Pedro
+- Ausentes: nenhum
+- Decisões: Arthur fica com os posts do instagram, Greghory fica com o HTML, André, Gustavo, Pedro e Timotéo ficam com o JS
+- ações realizados:  Arthur fez post sobre treino de perna pro instagram, Greghory o HTML do login e formulario, Gustavo, Pedro, Timotéo e  André o js do site
+
+
 
