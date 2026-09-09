@@ -81,14 +81,28 @@ ações realizados:  Arthur, Gustavo, Greghory e Pedro fizeram suas páginas no 
 - ações realizados: Gustavo, Arthur e Pedro fizeram alguns posts para instagram no canva mas ainda não postaram, André fez algumas páginas para o figma, e Greghory e Timóteo fizeram o HTML de várias páginas
 
 ---
-## ATA-08
+## ATA-09
 
 - Data: 29/08/2026
 - Assunto:: instagram, desenvolvimento do HTML e JS
 - Presentes: André, Greghory,Gustavo, Arthur, Timóteo e Pedro
 - Ausentes: nenhum
 - Decisões: Timóteo, Greghory, Gustavo e Pedro continuam o script.js, André, Arthur e Pedro fazem posts para Instagram 
-- ações realizados: Timotéo, Greghory, Gustavo, Pedro e André progrediram o script.js, Arthur e , Pedro fizeram alguns posts para o instagram 
+- ações realizados: Timotéo, Greghory, Gustavo, Pedro e André progrediram o script.js, Arthur e , Pedro fizeram alguns posts para o instagram
+
+
+---
+
+## 
+ATA-10
+
+- Data: 09/09/2026
+- Assunto: instagram e html
+- Presentes: André, Greghory,Gustavo, Arthur  e Pedro
+- Ausentes: timotéo
+- Decisões:  Arthur, Gustavo , e  Pedro fazem posts para o instagram e André e Greghory continuam o html
+- ações realizados: fizemos mais posts para instagram e progredimos no html do site.
+
 
 
 
