@@ -93,15 +93,24 @@ ações realizados:  Arthur, Gustavo, Greghory e Pedro fizeram suas páginas no 
 
 ---
 
-## 
-ATA-10
+## ATA-10
 
 - Data: 09/09/2026
 - Assunto: instagram e html
 - Presentes: André, Greghory,Gustavo, Arthur  e Pedro
 - Ausentes: timotéo
 - Decisões:  Arthur, Gustavo , e  Pedro fazem posts para o instagram e André e Greghory continuam o html
-- ações realizados: fizemos mais posts para instagram e progredimos no html do site.
+- ações realizados: fizemos mais posts para instagram e progredimos no html do site, o Greghory terminou as páginas de suplementos e exercícios.
+
+##  ATA-11
+
+- Data: 10/09/2026
+- Assunto: instagram e html
+- Presentes: André, Arthur, Pedro e Timóteo
+- Ausentes:  Greghory e Gustavo
+- Decisões:  Arthur faz mais posts para instagram e André, Timóteo e Pedro fazem mais páginas do Html
+- Ações realizadas: Arthur continuou os posts para instagram, André e Timóteo fizeram as páginas de criar conta e login, artigos-home, artigos-hidratação, o Pedro Paulo terminou o FAQ, e está terminando a página home.
+
 
 
 
