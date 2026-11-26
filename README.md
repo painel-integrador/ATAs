@@ -3,7 +3,7 @@
 - Data: 11/06/2026
 - Assunto: Início do Projeto, escolha do coordenador e secretário.
 - Presentes: Arthur Rober, Greghory Miranda,  Timóteo Graebin, Pedro Paulo Dias de Oliveira e André Luiz Matthies.
-- Ausentes: Gustavo Neto Mota Rosa.
+- Ausentes: Gustavo Neto Roza da Mota.
 - Decisões: Escolhemos o coordenador: Timóteo Graebin, e secretário: Arthur Rober, buscamos referências e ideias, decidimos os designers: Greghory Miranda e Pedro Paulo Dias de Oliveira.
 
 
@@ -13,7 +13,7 @@
 - Data: 18/06/2026
 - Assunto: Layout do site, Github e organização do Github
 - Presentes: Arthur Rober, Pedro Paulo Dias de Oliveira e André Luiz Matthies.
-- Ausentes: Gustavo Neto Mota Rosa, Greghory Miranda e Timóteo Graebin.
+- Ausentes: Gustavo Neto Roza da Mota, Greghory Miranda e Timóteo Graebin.
 - Decisões: Fontes de inspiração para o site : “Google Health, Samsung health (o principal), mindbodygreen, huawei health“. Criação de uma organização no github e convite dos membros. Criação de layouts para termos uma base de mais ou menos como ficará.
 
 
@@ -22,7 +22,7 @@
 - Data: 25/06/2026
 - Assunto: Figma e criação de páginas, e busca de referências e conteúdo.
 - Presentes: Arthur Rober, Pedro Paulo Dias de Oliveira ,Timóteo Graebin e  Greghory Miranda.
-- Ausentes: Gustavo Neto Mota Rosa(faltou porque dormiu muito -0.5) e André Luiz Matthies (estava no JIFC).
+- Ausentes: Gustavo Neto Roza da Mota(faltou porque dormiu muito -0.5) e André Luiz Matthies (estava no JIFC).
 - Decisões: Timoteo será responsável pelo github, css e backend . Pedro paulo dias de oliveira será responsável pelo backend e design das páginas. Greghory será responsável pelo design das páginas. Arthur cuida do Github e dos ATAS.
 - Ações realizadas: Timóteo, pedro, arthur e greghory fizeram o design de algumas páginas no figma.
 
